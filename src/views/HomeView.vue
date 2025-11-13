@@ -3,7 +3,7 @@
         <div class="general-header">
             <div class="header-app">
                 <img :src="logotipo" :alt="logotipo" class="logo-app" />
-                <h4 class="titulo-app">CONTROL ARCHIVOS DIAN</h4>
+                <h4 class="titulo-app">VERIFICACIÓN FACTURACIÓN ELECTRÓNICA ERP - DIAN</h4>
             </div>
         </div>
 
